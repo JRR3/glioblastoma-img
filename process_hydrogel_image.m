@@ -567,7 +567,7 @@ if flag == true
             user_is_not_satisfied = false;
         end
         
-    end
+    end     
 
     %Write points to file
     m = [centers, radii];
@@ -627,46 +627,5 @@ end
 
 img = zeros(n_rows, n_cols, 'like', img);
 img(linear_indices) = 1;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
