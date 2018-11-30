@@ -1,0 +1,11 @@
+*.tif
+*.tiff
+*.mat
+*.fig
+*.ppt
+*.pptx
+*.tmp
+~*
+*.swp
+*.swo
+image_processing/HG-10days/s3
